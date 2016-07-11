@@ -2,7 +2,7 @@
 
 ## Part I - Find Carmen Sandiego
 
-Repeat the [previous exercise](https://github.com/wdi-hk-10/lab-carmen-sandiego) but this time let's use the ActiveRecord query interface to find Carmen Sandiego. 
+Repeat the [previous exercise](https://github.com/wdi-hk-11/lab-carmen-sandiego) but this time let's use the ActiveRecord query interface to find Carmen Sandiego. 
 
 You **DO NOT** need to create the database **NOR** load the data again.
 
